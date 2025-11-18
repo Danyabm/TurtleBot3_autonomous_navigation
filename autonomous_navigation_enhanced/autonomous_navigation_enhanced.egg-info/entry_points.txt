@@ -1,0 +1,7 @@
+[console_scripts]
+navigation_analytics = autonomous_navigation_enhanced.scripts.navigation_analytics:main
+obstacle_predictor = autonomous_navigation_enhanced.scripts.obstacle_predictor:main
+rl_test = autonomous_navigation_enhanced.scripts.test_rl_agent:main
+rl_train = autonomous_navigation_enhanced.scripts.train_rl_agent:main
+smart_goal_planner = autonomous_navigation_enhanced.scripts.smart_goal_planner:main
+
