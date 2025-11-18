@@ -28,7 +28,7 @@ Velocity Estimation: Calculates approaching object speeds
 Emergency Stop System: Automatic braking when collision imminent (<0.3m)
 Warning Levels: Three-tier alert system (INFO/WARNING/EMERGENCY)
 
-**** _Navigation Analytics Dashboard_****
+**_Navigation Analytics Dashboard_**
 
 Path Efficiency Metrics: Actual vs. optimal distance comparison
 Real-time Performance: Speed, distance, and time tracking
