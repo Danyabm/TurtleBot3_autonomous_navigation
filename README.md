@@ -2,7 +2,7 @@
 
 TurtleBot3 Autonomous Navigation with Path Planning
 
-Intelligent autonomous navigation system for TurtleBot3 with smart goal planning, dynamic obstacle prediction, and real-time analytics. Built from scratch while learning ROS2.
+Intelligent autonomous navigation system for TurtleBot3 with smart goal planning, dynamic obstacle prediction, and real-time analytics. Built from scratch while learning ROS2, SLAM and Gazebo.
 
 **Overview**
 This project implements an advanced autonomous navigation system for TurtleBot3 robots in simulated environments. Unlike basic navigation implementations, this system incorporates:
